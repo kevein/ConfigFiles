@@ -21,7 +21,7 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
 
 [rhel-LoadBalancer]
 name=LoadBalancer
-baseurl=file:///medai/LoadBalancer
+baseurl=file:///media/LoadBalancer
 enabled=1
 gpgcheck=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
