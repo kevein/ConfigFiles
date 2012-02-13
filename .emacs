@@ -5,7 +5,7 @@
 (add-to-list 'load-path "~/.emacs.d/elisp/color-theme-6.6.0")
 (require 'color-theme)
 (color-theme-initialize)
-(color-theme-gray30)
+(color-theme-simple-1)
 (global-set-key (kbd "C-;") 'yp-goto-next-line)
 (global-set-key (kbd "C-M-;") 'yp-goto-prev-line)
 
