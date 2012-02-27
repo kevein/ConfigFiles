@@ -1,3 +1,4 @@
+(setq x-select-enable-clipboard t)      ; support copy and paste between emacs and X window
 (tool-bar-mode -1)                     ; disable tool bar, must be -1, nil will caust toggle
 (scroll-bar-mode -1)
 (menu-bar-mode -1)
